@@ -1,0 +1,2 @@
+# dnnplatformcookies
+DNN Platform Cookies

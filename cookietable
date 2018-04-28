@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>DNN Platform Cookies</title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+	<table class="table">
+		<thead>
+			<tr class="active">
+				<th>Cookie 
+				name</th>
+				<th>Maximum retention 
+				period</th>
+				<th>Placed by</th>
+				<th>Purpose</th>
+			</tr>
+		</thead>
+		<tr>
+			<td style="height: 36px">__cfduid</td>
+			<td style="height: 36px">1 year</td>
+			<td style="height: 36px">DNN Platform</td>
+			<td style="height: 36px"></td>
+		</tr>
+		<tr>
+			<td>.ASPXANONYMOUS</td>
+			<td>69 days, 10 hours, and 40 minutes</td>
+			<td>DNN Platform</td>
+			<td>Configures anonymous identification for application 
+			authorization. This is required to identify entities that are not 
+			authenticated when authorization is required. </td>
+		</tr>
+		<tr>
+			<td>.DOTNETNUKE </td>
+			<td>session</td>
+			<td>DNN Platform</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>DotNetNukeAnonymous</td>
+			<td>2 hours</td>
+			<td>DNN Platform</td>
+			<td>The cookie is set for forms authentication </td>
+		</tr>
+		<tr>
+			<td>__zlcmid</td>
+			<td>1 year</td>
+			<td>DNN Platform</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>__RequestVerificationToken</td>
+			<td>session</td>
+			<td>DNN Platform</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>authentication</td>
+			<td>session</td>
+			<td>DNN Platform</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>dnn_IsMobile</td>
+			<td>session</td>
+			<td>DNN Platform</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>language</td>
+			<td>session</td>
+			<td>DNN Platform</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>LastPageId</td>
+			<td>session</td>
+			<td>DNN Platform</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>StayInEditMode</td>
+			<td>session</td>
+			<td>DNN Platform</td>
+			<td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
